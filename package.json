@@ -1,0 +1,29 @@
+{
+  "name": "wp-template",
+  "version": "1.0.0",
+  "description": "Wordpress template for beginners",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p8queiroz/wp-template.git"
+  },
+  "keywords": [
+    "wodpress",
+    "template",
+    "beginner"
+  ],
+  "author": "p8queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p8queiroz/wp-template/issues"
+  },
+  "homepage": "https://github.com/p8queiroz/wp-template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.8",
+    "gulp": "^3.9.0"
+  }
+}

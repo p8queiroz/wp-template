@@ -1,5 +1,53 @@
-# Bootstrap Blog
+# (GitHub-wp-template) Wordpress Template
 
-Build on the official Bootstrap blog starter template to learn WordPress.
+This project will guide you through the process of creating a simple Wordpress theme from scratch. The following tech are used:
 
-### [View the tutorial!](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+ * PHP
+ * Bootstrap
+ * Javascript/jQuery
+
+NPM
+
+Install projects dependencies:
+
+ * npm install
+
+To run a Gulp task:
+
+ * npm run gulp taskName
+ 
+ 
+ 
+To run a default npm Gulp task:
+
+ * npm run gulp
+ 
+
+And here's an example of a Gulp task! :+1:
+
+```javascript
+var gulp = require('gulp')
+	,browserSync = require('browser-sync');
+
+gulp.task('default', function() {
+	gulp.start('server');
+});
+
+gulp.task('server', function() {
+	browserSync.init({
+		server: {
+			baseDir: 'src'
+		}
+	});
+
+gulp.watch('src/**/*').on('change', browserSync.reload);
+
+
+});
+```
+
+This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've borked it somewhere.
+
+
+### Useful links:
+
