@@ -24,6 +24,7 @@
   "homepage": "https://github.com/p8queiroz/wp-template#readme",
   "devDependencies": {
     "browser-sync": "^2.9.8",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-path": "^4.0.0"
   }
 }

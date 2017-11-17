@@ -48,6 +48,10 @@ gulp.watch('src/**/*').on('change', browserSync.reload);
 
 This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've borked it somewhere.
 
+### Useful commands
+
+npm install --save-dev gulp-path
+
 
 ### Useful links:
 
