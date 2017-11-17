@@ -51,7 +51,7 @@ This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I'
 ### Useful commands
 
 npm install --save-dev gulp-path
-
+npm install gulp-clean@0.3.1 --save-dev
 
 ### Useful links:
 
