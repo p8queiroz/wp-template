@@ -181,13 +181,14 @@ a.readmore:hover{
 }
 .flexy-menu > li > a{
 	padding: .5em 2em;
-	color:#fff;
+	color:#F7812A;
 	display:block;
 	font-family: 'FugazOne-Regular';
 	font-size:1.4em;
 }
 .flexy-menu li a:hover,.flexy-menu li a.active{
 	color: #F7812A;
+	text-decoration: underline
 }
 .flexy-menu li.right{
 	float: right;
