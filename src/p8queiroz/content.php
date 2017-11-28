@@ -13,7 +13,7 @@
 		</div>
 		<div class="clearfix"></div>
 	</div>
-	<div class="bnr-about">
+	<!--<div class="bnr-about">
 		<div class="bnr-about-left">	
 			<p>Lorem Ipsum printing and typesetting industry </p>
 			<h3>Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum exercitation laboriosam</h3>
@@ -36,7 +36,7 @@
 			<img src="<?php echo get_bloginfo( 'template_directory' );?>/images/img1.jpg" alt="" />
 		</div>
 		<div class="clearfix"></div>
-	</div>
+	</div> -->
 	<!--//banner-bottom-->
 	<!--events-->
 	<div class="events">

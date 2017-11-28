@@ -48,10 +48,10 @@ body a:hover{
 	position:relative;
 }
 .caption {
-  width: 74%;
+  width: 84%;
   position: absolute;
   top: 31%;
-  left: 24%;
+  left: 12%;
 }
 .header{
 	margin-top:2.3em;
@@ -68,7 +68,7 @@ body a:hover{
 	color:#fff;
 }
 .logo a span {
-  color: #ED1C24;
+  color: #F7812A;
 }
 .top-nav{
 	float:right;
@@ -134,7 +134,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 .caption h1 {
   font-size: 8em;
   font-weight: 500;
-  color: #ED1C24;
+  color: #F7812A;
   font-family: 'PathwayGothicOne-Regular';
 }
 .caption h4 {
@@ -157,8 +157,8 @@ a.readmore {
   margin-left: 10px;
 }
 a.readmore:hover{
-  border: 1px solid #ed1c24;
-	color:#ed1c24;
+  border: 1px solid #F7812A;
+	color:#F7812A;
 }
 /*--header--*/
 .flexy-menu{
@@ -187,7 +187,7 @@ a.readmore:hover{
 	font-size:1.4em;
 }
 .flexy-menu li a:hover,.flexy-menu li a.active{
-	color: #ED1C24;
+	color: #F7812A;
 }
 .flexy-menu li.right{
 	float: right;
@@ -265,7 +265,7 @@ display: none;
   width: 100%;
   height: 42px;
   cursor: pointer;
-  color: #ED1C24;
+  color: #F7812A;
   border-bottom: solid 1px rgba(0, 0, 0, 0.1);
   background: #FFFFFF;
 }
@@ -283,7 +283,7 @@ display: none;
   display: block;
   width: 23px;
   height: 2px;
-  background: #ED1C24;
+  background: #F7812A;
 }
 .flexy-menu.vertical{
 	width: 200px;
@@ -393,7 +393,7 @@ display: none;
   float: left;
   width: 50%;
   padding: 4em 6em 4em 9em;
-    background-color: rgb(237, 28, 36);
+    background-color: rgb(247, 129, 42);
 }
 .bnr-btm-right{
 	float:right;
@@ -431,7 +431,7 @@ display: none;
 }
 a.readmore.more {
   color: #fff;
-  background-color: #ED1C24;
+  background-color: #F7812A;
   padding: .5em 2em;
   margin: 0.8em 0 0;
   border: none;
@@ -495,7 +495,7 @@ a.readmore.more:hover {
 }
 .events h3 {
   font-family: 'PathwayGothicOne-Regular';
-  color: #ed1c24;
+  color: #F7812A;
 	margin-bottom: 0.45em;
   font-size: 2.5em;
   line-height: 1.3em;
@@ -743,7 +743,7 @@ a.readmore.more:hover {
   font-size: 1em;
 }
 .footer p a{
-  color:#ED1C24;
+  color:#F7812A;
 }
 .footer p a:hover{
   color:#fff;
@@ -757,7 +757,7 @@ a.readmore.more:hover {
 }
 .about h3 {
   font-family: 'PathwayGothicOne-Regular';
-  color: #ed1c24;
+  color: #F7812A;
   margin-bottom:.7em;
   font-size: 2.8em;
   line-height: 1.3em;
@@ -854,7 +854,7 @@ h3.typo-title{
   font-size: 2.8em;
   text-align: center;
   font-family: 'PathwayGothicOne-Regular';
-  color: #ed1c24;
+  color: #F7812A;
 }
 .show-grid [class^=col-] {
     background: #fff;
@@ -913,7 +913,7 @@ h3.typo-title{
 }
 .gallery h3 {
   font-family: 'PathwayGothicOne-Regular';
-  color: #ed1c24;
+  color: #F7812A;
   margin: 0 0 0.45em 0;
   font-size: 2.5em;
   line-height: 1.3em;
@@ -925,7 +925,7 @@ h3.typo-title{
 }
 .contact h3 {
   font-family: 'PathwayGothicOne-Regular';
-  color: #ed1c24;
+  color: #F7812A;
   margin-bottom: .6em;
   font-size: 2.5em;
   line-height: 1.3em;
@@ -946,7 +946,7 @@ p.cnt-p {
   margin-bottom: 1.5em;
 }
 .address a {
-	color: #ed1c24;
+	color: #F7812A;
 	margin: 0 0 .5em 0;
 	text-align: left;
 	font-size: 1em;
@@ -995,7 +995,7 @@ p.cnt-p {
   -webkit-appearance: none;
 }
 .contact-form input[type="submit"] {
-  background: #ed1c24;
+  background: #F7812A;
   padding: .6em 0;
   border:none;
   width: 100%;

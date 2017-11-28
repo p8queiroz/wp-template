@@ -58,7 +58,7 @@
 		<div class="container">
 			<div class="header">
 				<div class="logo">
-					<a href="index.html">Jim <span>Guide</span></a>
+					<a href="index.html">my <span>Company Name</span></a>
 				</div>							 
 				<div class="top-nav">						
 					<ul class="flexy-menu orange nav1">
@@ -89,13 +89,28 @@
 			<div class="caption">
 				<div class="callbacks_container">
 					<ul class="rslides" id="slider">
-						<li><h1>TECHNIQUE <br>MUSCLE</h1></li>	
-						<li><h1>LORIPSUM <br>LETTERS</h1></li>
-						<li><h1>VEROACCUS<br>DUCIMUS</h1></li>
+						<li><h1>MARKETING <br> DIGITAL</h1></li>	
+						<li><h1>CRIAÇÃO <br> DE SITES</h1></li>
+						<li><h1>OTIMIZE  <br> SEU SITE </h1></li>
 					</ul>	
-					<h4>' lorem ipsum ' will uncover many</h4>
+					<h4>Melhore o posicionamento do seu site <br> 
+					nas buscas do google</h4>
 					<a class="readmore" href="#">MORE</a>
 				</div>
+				
+				<!--
+				<div class="callbacks_container">
+					<ul class="rslides" id="slider">
+						<li><h1>Marketing  Digital</h1></li>	
+						<li><h1>Crie sua Franchise</h1></li>
+						<li><h1>Otimize seu site</h1></li>
+					</ul>	
+					<h4>Melhore o posicionamento do seu site nas buscas do google</h4>
+					<a class="readmore" href="#">MORE</a>
+				</div>
+				
+				-->
+				
 			</div>
 		</div>			 
 	</div>
