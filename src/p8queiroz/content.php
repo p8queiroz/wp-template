@@ -1,7 +1,7 @@
 <!--banner-bottom-->
-	<div class="banner-bottom">
+	<div class="banner-bottom" id="about">
 		<div class="bnr-btm-left">	
-			<h4>Loderful designs takenposs <br> has  voluptatemut enimminim quis nostrum</h4>
+			<h4>About Loderful designs takenposs <br> has  voluptatemut enimminim quis nostrum</h4>
 			<iframe src="https://player.vimeo.com/video/70613839" allowfullscreen></iframe>
 			<p> Lorem Ipsum has been 23/07/2015</p>
 		</div>
@@ -13,7 +13,7 @@
 		</div>
 		<div class="clearfix"></div>
 	</div>
-	<!--<div class="bnr-about">
+	<div class="bnr-about" id="services">
 		<div class="bnr-about-left">	
 			<p>Lorem Ipsum printing and typesetting industry </p>
 			<h3>Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum exercitation laboriosam</h3>
@@ -36,10 +36,29 @@
 			<img src="<?php echo get_bloginfo( 'template_directory' );?>/images/img1.jpg" alt="" />
 		</div>
 		<div class="clearfix"></div>
-	</div> -->
+	</div>
 	<!--//banner-bottom-->
+	
+	
+	
+	<div class="banner-bottom" id="portfolio">
+		<div class="bnr-btm-left">	
+			<h4>About Loderful designs takenposs <br> has  voluptatemut enimminim quis nostrum</h4>
+			<iframe src="https://player.vimeo.com/video/70613839" allowfullscreen></iframe>
+			<p> Lorem Ipsum has been 23/07/2015</p>
+		</div>
+		<div class="bnr-btm-right">	
+			<p>Lorem Ipsum printing and typesetting industry </p>
+			<h3>Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum exercitation laboriosam</h3>
+			<p>Lorem Ipsum is simply dummy the when an unknown printer took a galley of type and scrambled it to make a type specimen book  It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+			<a class="readmore more" href="#"> Read More</a>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	
+	
 	<!--events-->
-	<div class="events">
+	<div class="events" id="contact">
 		<div class="container">
 			<h4>Magnam aliquam quaerat voluptatemut enim minima veniam </h4>
 			<div class="events-grids">

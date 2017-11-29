@@ -54,32 +54,19 @@
 				pager: true,
 			  });
 			});
-		  </script>
+		</script>
 		<div class="container">
 			<div class="header">
 				<div class="logo">
-					<a href="index.html">my <span>Company Name</span></a>
+					<a href="index.html">my <span>Target</span></a>
 				</div>							 
 				<div class="top-nav">						
 					<ul class="flexy-menu orange nav1">
-						<li><a class="active"  href="index.html">Home</a></li>						
-						<li><a href="#">About</a>
-							<ul>
-								<li><a href="about.html">Lorem1</a></li>
-								<li><a href="about.html">Lorem2</a></li>
-								<li><a href="about.html">Lorem3</a></li>
-								<li><a href="about.html">Lorem4</a></li>
-							</ul>
-						</li> 
-						<li><a href="services.html">Services</a></li>
-						<li><a href="#">Gallery</a>
-							<ul>
-								<li><a href="gallery.html">Gallery 1</a></li>
-								<li><a href="gallery.html">Gallery 2</a></li>
-								<li><a href="gallery.html">Gallery 3</a></li>
-							 </ul>
-						</li>               
-						<li><a href="contact.html">Contact</a></li>
+						<li><a class="active"  href="#home">Home</a></li>						
+						<li><a class="scroll"  href="#about">About</a></li> 
+						<li><a class="scroll"  href="#services">Services</a></li>
+						<li> <a class="scroll" href="#portfolio">Portfolio</a></li>           
+						<li><a class="scroll" href="#contact">Contact</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
