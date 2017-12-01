@@ -65,8 +65,8 @@
 						<li><a class="active"  href="#home">Home</a></li>						
 						<li><a class="scroll"  href="#about">About</a></li> 
 						<li><a class="scroll"  href="#services">Services</a></li>
-						<li> <a class="scroll" href="#portfolio">Portfolio</a></li>           
-						<li><a class="scroll" href="#contact">Contact</a></li>
+						<li><a class="scroll"  href="#portfolio">Portfolio</a></li>           
+						<li><a class="scroll"  href="#contact">Contact</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
