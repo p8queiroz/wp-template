@@ -42,10 +42,10 @@ body a:hover{
 }
 /*--banner--*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px -279px;
-	background-size:cover;
+	background:url(../images/banner.jpg) no-repeat 82% 58%;
 	min-height:700px;
 	position:relative;
+	background-color: #0083C8;
 }
 .caption {
   width: 84%;

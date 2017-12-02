@@ -37,7 +37,8 @@ var autoprefixerOptions = {
 			.pipe(gulp.dest('dist/p8queiroz'));
 	});
 
-	gulp.task('cleanlocal', ['buildimg', 'sass', 'watchsass'], function() {
+	//gulp.task('cleanlocal', ['buildimg', 'sass'], function() {
+	gulp.task('cleanlocal', function() {
 		return gulp
 			.src('dist')
 			.pipe(clean({force: true}));
