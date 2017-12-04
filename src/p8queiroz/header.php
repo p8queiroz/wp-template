@@ -57,6 +57,8 @@
 			  });
 			});
 		</script>
+		
+		
 		<div class="container">
 			<div class="header">
 				<div class="logo">
@@ -86,21 +88,33 @@
 					nas buscas do google</h4>
 					<a class="readmore" href="#">MORE</a>
 				</div>
-				
-				<!--
-				<div class="callbacks_container">
-					<ul class="rslides" id="slider">
-						<li><h1>Marketing  Digital</h1></li>	
-						<li><h1>Crie sua Franchise</h1></li>
-						<li><h1>Otimize seu site</h1></li>
-					</ul>	
-					<h4>Melhore o posicionamento do seu site nas buscas do google</h4>
-					<a class="readmore" href="#">MORE</a>
-				</div>
-				
-				-->
-				
 			</div>
-		</div>			 
+		</div>	
+		<div class="row">
+				<div class="img-banner pull-right">  
+					<img class="img-responsive" src="<?php echo get_bloginfo( 'template_directory' );?>/images/banner.jpg" />   
+				</div>
+		</div>		
 	</div>
 	<!--//banner-->
+	
+	  <!--1. Mobile-->
+	  <!--2. Tab-->
+	  <!--3. Desktop-->
+	  <!--4. Large-->
+	  <!--
+			<div class="row">
+				<div class="col-xs-12 hidden-sm hidden-md hidden-lg">  
+					<img class="img-responsive" src="<?php echo get_bloginfo( 'template_directory' );?>/images/img12.jpg" />   
+				</div>
+				<div class="hidden-xs col-sm-12 hidden-md hidden-lg">
+					<img class="img-responsive" src="<?php echo get_bloginfo( 'template_directory' );?>/images/img13.jpg" />  
+				</div>
+				<div class="hidden-xs hidden-sm col-md-12 hidden-lg">
+					<img class="img-responsive" src="<?php echo get_bloginfo( 'template_directory' );?>/images/img14.jpg" />   
+				</div>
+				<div class="hidden-xs hidden-sm hidden-md col-lg-12">
+					<img class="img-responsive" src="<?php echo get_bloginfo( 'template_directory' );?>/images/img19.jpg" />  
+				</div>
+			</div> 
+	  -->

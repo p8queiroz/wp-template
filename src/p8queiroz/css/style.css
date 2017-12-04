@@ -41,8 +41,11 @@ body a:hover{
 	text-decoration:none;
 }
 /*--banner--*/
+.img-banner{
+	background:url(../images/banner.jpg) no-repeat;
+}
 .banner{
-	background:url(../images/banner.jpg) no-repeat 82% 58%;
+	/*background:url(../images/banner.jpg) no-repeat 82% 58%;*/
 	min-height:700px;
 	position:relative;
 	background-color: #0083C8;
