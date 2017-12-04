@@ -4,6 +4,7 @@
 	<title>Home Template</title>
 	<link href="<?php echo get_bloginfo( 'template_directory' );?>/css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
 	<link href="<?php echo get_bloginfo( 'template_directory' );?>/css/style.css" type="text/css" rel="stylesheet" media="all">
+	<link href="<?php echo get_bloginfo( 'template_directory' );?>/css/component.css" type="text/css" rel="stylesheet" media="all">
 
 	<!-- Custom Theme files -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,6 +31,7 @@
 		});
 	</script>
 	<!--//end-smoth-scrolling-->
+	
 	<!--menu js-->
 	<script type="text/javascript" src="<?php echo get_bloginfo( 'template_directory' );?>/js/flexy-menu.js"></script>
 	<script type="text/javascript">$(document).ready(function(){$(".flexy-menu").flexymenu({speed: 400, indicator: true});});</script>

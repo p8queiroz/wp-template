@@ -6,25 +6,25 @@
 	</div>
 	<!--//footer-->
 	<script type="text/javascript">
-			$(document).ready(function() {
-				/*
-				var defaults = {
-					containerID: 'toTop', // fading element id
-					containerHoverID: 'toTopHover', // fading element hover id
-					scrollSpeed: 1200,
-					easingType: 'linear' 
-				};
-				*/
-				
-				$().UItoTop({ easingType: 'easeOutQuart' });
-				
-			});
+	$(document).ready(function() {
+		Grid.init();
+		$().UItoTop({ easingType: 'easeOutQuart' });
+	});
 	</script>
+	<!--end-gallery js-->
+	
+	<script>
+		$(function() {
+			
+		});
+	</script>
+	<!--//end-gallery-->
 		<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 	<!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="<?php echo get_bloginfo( 'template_directory' );?>/js/bootstrap.js"> </script>
+	<script src="<?php echo get_bloginfo( 'template_directory' );?>/js/grid.js"></script>
 	<?php wp_footer(); ?> 
 </body>
 </html>   
