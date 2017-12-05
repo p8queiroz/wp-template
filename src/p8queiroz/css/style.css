@@ -487,10 +487,12 @@ a.readmore.more:hover {
 /*--events--*/
 .events {
   padding: 5em 0;
+  background-color: #0083C8;
 }
 .events h4 {
   color: #000;
   font-size: 1.8em;
+ 
   font-family: 'FugazOne-Regular';
   text-align:center;
 }
@@ -926,10 +928,11 @@ h3.typo-title{
 /*--contact-page--*/
 .contact {
   padding:5em 0;
+  background-color: rgb(247, 129, 42);
 }
 .contact h3 {
   font-family: 'PathwayGothicOne-Regular';
-  color: #F7812A;
+  color: #0083C8;
   margin-bottom: .6em;
   font-size: 2.5em;
   line-height: 1.3em;
