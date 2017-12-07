@@ -92,7 +92,6 @@
 		</div>	
 		<div class="row">
 				<div class="img-banner pull-right">  
-					<img class="img-responsive" src="<?php echo get_bloginfo( 'template_directory' );?>/images/banner.jpg" />   
 				</div>
 		</div>		
 	</div>

@@ -19,24 +19,20 @@
 	<!--services-section-->
 	<div class="events" id="services">
 		<div class="container">
-			<h4>Magnam aliquam quaerat voluptatemut enim minima veniam </h4>
-			<div class="events-grids">
-				<div class="col-md-6 events-left">
-					<h3>Our Gym Services</h3>
-					<h5>Magnam aliquam quaerat voluptatemut enim minima veniam, quis nostrum exercitation laboriosam, Varius lorem Ipsum available aeblandit</h5>
-					<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum </p>
+			<h4>Conheça os nossos serviços</h4>
+			<div class="grid_3 grid_5">
+				<h4>Marketing Digital</h4>
+				<div class="well">
+					There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
 				</div>
-				<div class="col-md-6 events-right">	
-					<h3>Upcoming Events</h3>
-					<ul>
-						<li><a href="#">Donec quam lscele lorem Ipsum available.</a></li>
-						<li><a href="#">Etiam volutpatbh lorem Ipsum available</a></li>
-						<li><a href="#">Varius lorem Ipsum available aeblandit.</a></li>
-						<li><a href="#">Donec Lorem Ipsum available volutri.</a></li>
-						<li><a href="#">Etiam volutpatbh Lorem Ipsum available</a></li>
-					</ul>
+				<h4>Marketing Digital</h4>
+				<div class="well">
+					It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here
 				</div>
-				<div class="clearfix"></div>
+				<h4>Marketing Digital</h4>
+				<div class="well">
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
+				</div>
 			</div>
 			<div class="bnr-galry">
 				<div class="col-md-6 bnr-galry-left">
@@ -57,7 +53,7 @@
 				</div>
 				<div class="col-md-6 bnr-galry-right">
 					<div class="view view-eighth vie">
-						<img src="<?php echo get_bloginfo( 'template_directory' );?>/images/img4.jpg" alt=" " class="img-responsive" />
+						<img src="<?php echo get_bloginfo( 'template_directory' );?>/images/img3.jpg" alt=" " class="img-responsive" />
 						<div class="mask">
 							<h2>Letraset sheets</h2>
 							<p>with the release Letraset sheets Lorem</p>
@@ -147,12 +143,15 @@
 				</div>
 				<div class="col-md-4 address">
 					<h3>Informações adicionais</h3>
-					<p class="cnt-p">Lorem ipsum dolor sit amet, consectetur adipisicing elit,sheets containing Lorem Ipsum passages sed do </p>
-					<p>Eiusmod Tempor inc</p>
-					<p>9560 St Dolor,London</p>
-					<p>Telephone : +2 800 544 6035</p>
-					<p>FAX : +1 800 889 4444</p>
-					<p>Email : <a href="mailto:example@mail.com">mail@example.com</a></p>
+					<div class="well">
+						There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+					</div>
+					<div class="well">
+						There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+					</div>
+					<div class="well">
+						There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+					</div>
 				</div>									
 				<div class="clearfix"> </div>	
 			</div>
